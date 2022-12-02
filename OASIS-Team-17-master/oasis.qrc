@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>s11.svg</file>
+        <file>s12.svg</file>
+        <file>s13.svg</file>
+        <file>100.svg</file>
+        <file>alpha.svg</file>
+        <file>beta1.svg</file>
+        <file>beta2.svg</file>
+        <file>user.svg</file>
+        <file>20.svg</file>
+        <file>45.svg</file>
+        <file>power.svg</file>
+        <file>audio.svg</file>
+        <file>ces.svg</file>
+        <file>right.svg</file>
+        <file>left.svg</file>
+        <file>duty.svg</file>
+        <file>short.svg</file>
+        <file>mindalive.svg</file>
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
